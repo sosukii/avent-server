@@ -5,7 +5,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "server": "nodemon index.js "
+    "server": "nodemon index.js ",
+    "fix": "npx prettier --write ."
   },
   "author": "",
   "license": "ISC",

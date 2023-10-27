@@ -8,7 +8,7 @@
   "plugins": ["import"],
   "rules": {
     "semi": ["error", "always"],
-    "quotes": ["error", "double"],
+    "quotes": ["error", "single"],
     "space-in-brackets": ["error", "always"],
     "indent": ["error", 2]
   },
